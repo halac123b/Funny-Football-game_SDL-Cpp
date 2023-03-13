@@ -1,6 +1,6 @@
 #  Funny Football Game SDL C++
 
-<p>Thanks to my frind Duy Quang</p>
+<p>Thanks to my friend Duy Quang</p>
 
 <div style="display:flex">
 <img src="capture/image1.png" width="45%" height="50%">
