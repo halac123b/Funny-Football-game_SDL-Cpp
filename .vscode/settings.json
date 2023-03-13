@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "sdl2_gfxprimitives.h": "c",
+    "fstream": "cpp",
+    "*.rh": "cpp",
+    "compare": "cpp",
+    "tuple": "cpp",
+    "xlocinfo": "cpp",
+    "xstring": "cpp",
+    "string": "cpp"
+  }
+}
